@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-core
+langchain-openai
+duckduckgo-search
+requests
+tavily-python
+python-dotenv
+langchainhub
+langchain-google-genai
+langsmith
+streamlit
